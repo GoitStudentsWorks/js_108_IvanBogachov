@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/13-friends-of-Mentor/",
+    "build": "vite build --base=/js_108_IvanBogachov/",
     "preview": "vite preview"
   },
   "devDependencies": {
